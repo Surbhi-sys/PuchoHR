@@ -7,3 +7,14 @@ langchain-text-splitters
 ipykernel
 langchain-ollama
 chromadb
+unstructured
+pytesseract
+pdf2image
+Pillow
+torch
+numpy
+
+
+
+
+
