@@ -5,8 +5,6 @@ sentence-transformers
 chromadb
 langchain-text-splitters
 ipykernel
-langchain-ollama
-chromadb
 unstructured
 pytesseract
 pdf2image
@@ -14,7 +12,9 @@ Pillow
 torch
 numpy
 
-
-
-
-
+transformers>=4.36.0
+datasets>=2.16.0
+peft>=0.7.0
+accelerate>=0.25.0
+sentencepiece
+bitsandbytes
